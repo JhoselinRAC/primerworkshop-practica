@@ -1,3 +1,9 @@
 wenaaas wenaaas
 
 puts "decicion de que las cosas esperen"
+
+Respeta los tiempos :3
+
+
+
+go!
